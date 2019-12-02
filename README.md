@@ -11,9 +11,7 @@ The food ordering system gives the restaurant the ability to increase sales and 
 
 •	If customer is satisfied with the summary, just type 'order' to make the final order to particular restaurant or any food shop. 
 
-•	For the customers, who decide to buy food offline, can select the time to arrive so that they can eat food which is just made and avoid getting it rotten.
-
 ## Other
-•	Food selection is limited and it is for the given restaurants.
+•	Food selection is limited and it is for the given restaurants named "Foodela".
 
 •	Payment and delivery system is not included
